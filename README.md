@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=70&animation=twinkling" alt="João Vitor" />
+  <img src="./assets/logo.jpg" width="100%" alt="Logo João Vitor — Desenvolvedor de Software" />
 </p>
 
 <h3 align="center">
@@ -19,21 +19,21 @@
 
 <p align="center">
   <a href="https://github.com/Joao-Vitor-Duarte-Goncalves">
-    <img src="https://img.shields.io/badge/Teresina-PI%20·%20Brasil-22c55e?style=flat-square&logo=googlemaps&logoColor=white" alt="Teresina, PI" />
+    <img src="https://img.shields.io/badge/Teresina-PI%20·%20Brasil-2F7BFF?style=flat-square&logo=googlemaps&logoColor=white" alt="Teresina, PI" />
   </a>
   <a href="https://github.com/Joao-Vitor-Duarte-Goncalves/Joao-Vitor-Duarte-Goncalves">
-    <img src="https://img.shields.io/badge/profile%20repo-system%20README-a78bfa?style=flat-square&logo=github" alt="Profile repo" />
+    <img src="https://img.shields.io/badge/profile%20repo-system%20README-7B2FF7?style=flat-square&logo=github" alt="Profile repo" />
   </a>
-  <img src="https://img.shields.io/badge/aberto%20a-colabora%C3%A7%C3%B5es-f59e0b?style=flat-square" alt="Aberto a colaborações" />
+  <img src="https://img.shields.io/badge/aberto%20a-colabora%C3%A7%C3%B5es-4F6BFF?style=flat-square" alt="Aberto a colaborações" />
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Joao-Vitor-Duarte-Goncalves)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
   <img src="./assets/core.svg" width="100%" alt="Painel core: função, stack, projetos e localização" />
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Joao-Vitor-Duarte-Goncalves)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 # 🛠 Tecnologias e Projetos
 
@@ -82,7 +82,7 @@
 </tr>
 </table>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Joao-Vitor-Duarte-Goncalves)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
   <img src="./assets/title_stats.svg" width="100%" alt="Atividade pública e privada" />
@@ -92,22 +92,22 @@
      com "Include private contributions on my profile" ligado em Settings > Public profile. -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Joao-Vitor-Duarte-Goncalves&theme=radical&locale=pt_BR&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=Joao-Vitor-Duarte-Goncalves&locale=pt_BR&hide_border=true&background=000000&stroke=1E3A8A&ring=2F7BFF&fire=7B2FF7&currStreakNum=F5F7FF&sideNums=F5F7FF&currStreakLabel=2F7BFF&sideLabels=A1A7BB&dates=6B7280" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Vitor-Duarte-Goncalves&theme=radical" alt="Resumo de contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Vitor-Duarte-Goncalves&theme=tokyonight" alt="Resumo de contribuições" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-Duarte-Goncalves&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Vitor-Duarte-Goncalves&bg_color=000000&color=A1A7BB&title_color=F5F7FF&line=2F7BFF&point=7B2FF7&area_color=5B3DF5&hide_border=true&area=true" width="100%" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joao-Vitor-Duarte-Goncalves&label=VISUALIZA%C3%87%C3%95ES&color=36BCF7&style=flat-square" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Joao-Vitor-Duarte-Goncalves&label=VISUALIZA%C3%87%C3%95ES&color=2F7BFF&style=flat-square" alt="Visualizações do perfil" />
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Joao-Vitor-Duarte-Goncalves)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -134,7 +134,7 @@ Aberto a colaborar em:
 <br>
 
 <a href="https://github.com/Joao-Vitor-Duarte-Goncalves">
-  <img src="https://img.shields.io/badge/github-Joao--Vitor--Duarte--Goncalves-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/github-Joao--Vitor--Duarte--Goncalves-2F7BFF?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 <br><br>
 
@@ -149,16 +149,12 @@ Aberto a colaborar em:
 </tr>
 </table>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Joao-Vitor-Duarte-Goncalves)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
 ⚡ Construindo sistemas web, um commit de cada vez
 </p>
 
 <p align="center">
-  <sub>Divisores animados: <a href="https://github.com/HiradEmami/readme-ux-kit">readme-ux-kit</a> (MIT)</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F7BFF,100:7B2FF7&height=100&section=footer" alt="" />
 </p>

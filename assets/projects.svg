@@ -1,51 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="100%" height="330">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="100%" stop-color="#0b1220"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#05071A"/>
     </linearGradient>
     <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#334155"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#334155"/>
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="50%" stop-color="#5B3DF5"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
     </linearGradient>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#ec4899"/>
+      <stop offset="0%" stop-color="#2F7BFF"/>
+      <stop offset="100%" stop-color="#7B2FF7"/>
     </linearGradient>
   </defs>
   <style>
     .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-    .card{fill:#0f172a;stroke:#1e293b;stroke-width:1.5}
-    .name{font-size:19px;font-weight:700;fill:#e2e8f0}
-    .desc{font-size:14px;fill:#94a3b8}
-    .tag{font-size:12px;fill:#22d3ee}
+    .card{fill:#080B1C;stroke:#1A2246;stroke-width:1.5}
+    .name{font-size:19px;font-weight:700;fill:#F5F7FF}
+    .desc{font-size:14px;fill:#A1A7BB}
+    .tag{font-size:12px;fill:#2F7BFF}
     .pulse{animation:p 3s ease-in-out infinite}
     @keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
   </style>
 
   <rect x="10" y="10" width="1180" height="310" rx="22" fill="url(#bg)" stroke="url(#stroke)" stroke-width="2"/>
   <text x="44" y="58" class="t" font-size="26" font-weight="700" fill="url(#title)">PROJETOS EM DESTAQUE</text>
-  <text x="1156" y="58" class="t" font-size="13" fill="#64748b" text-anchor="end">./repos --pinned</text>
+  <text x="1156" y="58" class="t" font-size="13" fill="#6B7280" text-anchor="end">./repos --pinned</text>
 
   <!-- row 1 -->
   <g transform="translate(44 82)">
     <rect class="card" width="355" height="100" rx="14"/>
-    <circle class="pulse" cx="330" cy="24" r="5" fill="#22c55e"/>
+    <circle class="pulse" cx="330" cy="24" r="5" fill="#2F7BFF"/>
     <text x="20" y="34" class="t name">tecla-stop</text>
     <text x="20" y="60" class="t desc">Jogo web de festa estilo Tapple</text>
     <text x="20" y="84" class="t tag">JavaScript · Vercel</text>
   </g>
   <g transform="translate(422 82)">
     <rect class="card" width="355" height="100" rx="14"/>
-    <circle class="pulse" cx="330" cy="24" r="5" fill="#a78bfa" style="animation-delay:.6s"/>
+    <circle class="pulse" cx="330" cy="24" r="5" fill="#7B2FF7" style="animation-delay:.6s"/>
     <text x="20" y="34" class="t name">spotify-experience</text>
     <text x="20" y="60" class="t desc">Experiência estilo Spotify em Laravel</text>
     <text x="20" y="84" class="t tag">Laravel · PHP</text>
   </g>
   <g transform="translate(800 82)">
     <rect class="card" width="355" height="100" rx="14"/>
-    <circle class="pulse" cx="330" cy="24" r="5" fill="#f59e0b" style="animation-delay:1.2s"/>
+    <circle class="pulse" cx="330" cy="24" r="5" fill="#4F6BFF" style="animation-delay:1.2s"/>
     <text x="20" y="34" class="t name">mobilidade-urbana</text>
     <text x="20" y="60" class="t desc">Simulador de mobilidade urbana</text>
     <text x="20" y="84" class="t tag">Simulação</text>
@@ -54,22 +54,22 @@
   <!-- row 2 -->
   <g transform="translate(44 200)">
     <rect class="card" width="355" height="100" rx="14"/>
-    <circle class="pulse" cx="330" cy="24" r="5" fill="#ec4899" style="animation-delay:.3s"/>
+    <circle class="pulse" cx="330" cy="24" r="5" fill="#7B2FF7" style="animation-delay:.3s"/>
     <text x="20" y="34" class="t name">automacao-java</text>
     <text x="20" y="60" class="t desc">Automação em Java (faculdade)</text>
     <text x="20" y="84" class="t tag">Java</text>
   </g>
   <g transform="translate(422 200)">
     <rect class="card" width="355" height="100" rx="14"/>
-    <circle class="pulse" cx="330" cy="24" r="5" fill="#22d3ee" style="animation-delay:.9s"/>
+    <circle class="pulse" cx="330" cy="24" r="5" fill="#2F7BFF" style="animation-delay:.9s"/>
     <text x="20" y="34" class="t name">site-aulas</text>
     <text x="20" y="60" class="t desc">Site de apoio às minhas aulas</text>
     <text x="20" y="84" class="t tag">HTML · CSS · JS</text>
   </g>
   <g transform="translate(800 200)">
     <rect class="card" width="355" height="100" rx="14" stroke-dasharray="6 6"/>
-    <text x="20" y="34" class="t name" fill="#64748b">+ privados</text>
+    <text x="20" y="34" class="t name" fill="#6B7280">+ privados</text>
     <text x="20" y="60" class="t desc">SaaS, sistemas internos e labs</text>
-    <text x="20" y="84" class="t tag" fill="#64748b">commits contam no gráfico ↓</text>
+    <text x="20" y="84" class="t tag" fill="#6B7280">commits contam no gráfico ↓</text>
   </g>
 </svg>
